@@ -1,0 +1,14 @@
+Note: The website does not open sometimes so please try to reload the tests
+
+BUG 1:- In the country drop down setion the spelling of Germany is mention as "Germainy"
+
+BUG 2:- Only cities in France should appear in the city dropdown menu if user  select France as your country.
+
+BUG 3:- Search filter is not correctly applied to the model number (i.e if user search car model as audi only audi cars available should be displayed )
+
+BUG 4:- pick up date should be greater or equal to current date (i.e the dates in past should not be accessable)
+
+BUG 5:- The website carshes randomly  after certain interval of time  (gives expection error randomly)
+
+BUG 6:- After submission of personal data when user clicks on the rent button the page not found error is shown
+
