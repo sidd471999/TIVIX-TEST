@@ -10,5 +10,5 @@ BUG 4:- pick up date should be greater or equal to current date (i.e the dates i
 
 BUG 5:- The website carshes randomly  after certain interval of time  (gives expection error randomly)
 
-BUG 6:- After submission of personal data when user clicks on the rent button the page not found error is shown
+BUG 6:- After submission of personal data when user clicks on the rent button the page not found error is shown.
 
